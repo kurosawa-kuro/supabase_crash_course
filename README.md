@@ -10,10 +10,23 @@ id
 user_id
 image_id
 title
+pair
 date
-long_short
+style (Follow/Contrary)
+long_short (long/short)
 result (win/lose)
+
 ● Image
+id
+user_id
+url
+cloud_file_name
+original_file_name
+
 ● Journals_Categories
+journal_id
+categories_id
+
 ● Category
+name
 ```
